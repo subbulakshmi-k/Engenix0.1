@@ -212,7 +212,7 @@ const HomePage = () => {
             </p>
           </div>
           
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">
+          <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-8 mb-16">
             {featuredProducts.map((product) => (
               <div key={product.id} className="electric-card group hover:scale-105 transition-all duration-500 lightning">
                 <div className="aspect-square mb-6 overflow-hidden rounded-xl relative">
