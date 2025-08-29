@@ -111,7 +111,7 @@ const HomePage = () => {
       icon: '⚡',
       title: 'Wiring Services',
       description: 'Complete home and commercial wiring solutions',
-      color: 'from-yellow-400 to-orange-500',
+      color: 'from-yellow-400 to-orange=-500',
       bgColor: 'bg-yellow-500/10'
     },
     {
